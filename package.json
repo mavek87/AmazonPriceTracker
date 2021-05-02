@@ -19,6 +19,7 @@
   "homepage": "https://github.com/mavek87/AmazonPriceTracker#readme",
   "dependencies": {
     "@sendgrid/mail": "^7.4.2",
+    "minimist": "^1.2.5",
     "nightmare": "^3.0.2"
   }
 }
